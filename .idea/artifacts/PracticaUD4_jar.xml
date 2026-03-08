@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
-  <artifact type="jar" name="PracticaUD4_TaniaLopez:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/PracticaUD4_TaniaLopez_jar</output-path>
-    <root id="archive" name="PracticaUD4_TaniaLopez.jar">
+  <artifact type="jar" name="PracticaUD4:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PracticaUD4_jar</output-path>
+    <root id="archive" name="PracticaUD4.jar">
       <element id="module-output" name="PracticaUD4" />
       <element id="extracted-dir" path="$PROJECT_DIR$/libs/jgoodies-common-1.8.1.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/libs/jgoodies-forms-1.8.0.jar" path-in-jar="/" />
